@@ -1,0 +1,25 @@
+footer {
+    background-color: rgb(64, 17, 114);
+    padding: {
+        top: 5px;
+        bottom: 10px;
+        left: 5px;
+        right: 20px;
+    }
+    .logo {
+        padding: 2px;
+        h3 {
+            font-size: 1.2rem;
+        }
+    }
+    .rrss {
+        h3 {
+            color: aliceblue;
+        }
+    }
+    .contacto {
+        h3 {
+            color: aliceblue;
+        }
+    }
+}
